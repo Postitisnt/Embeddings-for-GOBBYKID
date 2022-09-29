@@ -1,12 +1,12 @@
 {
   "embeddings": [
     {
-      "tensorName": "My tensor",
+      "tensorName": "Female authors",
       "tensorShape": [
         44149,
         100
       ],
-      "tensorPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Models/f_embeddings.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Tensors/f_embeddings.tsv",
       "metadataPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Metadata/f_metadata.tsv"
     }
   ]
