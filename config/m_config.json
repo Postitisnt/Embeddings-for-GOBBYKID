@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Male authors",
+      "tensorShape": [
+        50333,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Tensors/m_embeddings.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Metadata/m_metadata.tsv"
+    }
+  ]
+}
