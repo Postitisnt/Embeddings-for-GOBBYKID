@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        44149,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/.../tensors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/Metadata/f_metadata.tsv"
+    }
+  ]
+}
