@@ -1,1 +1,0 @@
-https://projector.tensorflow.org/?config=https://raw.githubusercontent.com/Postitisnt/Embeddings-for-GOBBYKID/main/config/m_config.json
